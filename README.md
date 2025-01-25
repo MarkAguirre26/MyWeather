@@ -1,4 +1,5 @@
 # MyWeather
+![myWeatherApp](https://github.com/user-attachments/assets/b5f334f0-8a21-4855-a0fb-769ac4bac979)
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.4.
 
